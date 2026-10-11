@@ -20,7 +20,7 @@
 | [Gyroscope & accelerometer](https://www.alibaba.com/product-detail/GY-521-MPU-6050-6-Axis_1601943975478.html) | GY-521 MPU-6050 6 Axis Accelerometer Gyroscope Module 6DOF Motion Sensor Circuit Board | 1 | $1.57 | $1.57 | [Alibaba](https://www.alibaba.com/product-detail/GY-521-MPU-6050-6-Axis_1601943975478.html) |
 | [PCB](https://jlcpcb.com) | Unassembled PCB | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$15.86** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$15.86** | — |
+| **Tax & shipping** | — | — | — | **$4.31** | — |
+| **Total** | — | — | — | **$20.17** | — |
 
-$14.14 left of the tier's funding.
+$9.83 left of the tier's funding.
