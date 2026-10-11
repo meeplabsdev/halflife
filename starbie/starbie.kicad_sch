@@ -2527,7 +2527,7 @@
 		)
 		(uuid "4e7a19cb-78a9-42d1-84c2-631ddf7db1e0")
 	)
-	(label "SDA"
+	(label "SCL"
 		(at 38.1 77.47 180)
 		(effects
 			(font
@@ -2547,7 +2547,7 @@
 		)
 		(uuid "92165b61-f83b-4faf-8fcb-78148f30e8db")
 	)
-	(label "SCL"
+	(label "SDA"
 		(at 38.1 73.66 180)
 		(effects
 			(font
