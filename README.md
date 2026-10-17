@@ -39,8 +39,8 @@ This is a rough outline of the cost, see [`BOM.md`](bom.md) for more details.
 | [Keycaps](https://www.alibaba.com/product-detail/Multi-color-1U-M-OA-Profile_1601366568468.html) | $1.08 |
 | [Key switches](https://www.alibaba.com/product-detail/GATERON-Grape-Smoothie-Switch-Full-POM_1601822163412.html) | $2.00 |
 | [XIAO ESP32C3](https://www.alibaba.com/product-detail/Seeed-Studio-XIAO-ESP32-S3-C3_1601374328247.html) | $5.50 |
-| [Screen](https://www.alibaba.com/product-detail/Stock-0-96-Inch-OLED-Module_1600917220368.html) | $1.17 |
+| [Screen](https://www.alibaba.com/product-detail/Stock-0-96-Inch-OLED-Module_1600917220368.html) | $1.44 |
 | [Temperature & humidity sensor](https://www.alibaba.com/product-detail/Hot-Sell-Original-DHT-11-Digital_62344257902.html) | $0.54 |
 | [Gyroscope & accelerometer](https://www.alibaba.com/product-detail/GY-521-MPU-6050-6-Axis_1601943975478.html) | $1.57 |
 | [PCB](https://jlcpcb.com) | $4.00 |
-| **Total + Shipping** | **$24.27** |
+| **Total + Shipping** | **$24.54** |
